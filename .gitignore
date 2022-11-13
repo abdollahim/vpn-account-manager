@@ -49,5 +49,8 @@ _deps
 # ignore builds
 *build*
 
+# ignore vs files
+*.vs*
+
 # ignore vscode files
 *.vscode*
